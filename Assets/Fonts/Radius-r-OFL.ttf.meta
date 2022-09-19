@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 366ae4475ebb83f44a5b0504af10293a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Radius FG
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 13cb59d02aa50cf44b8f91cd5aaccd05, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
